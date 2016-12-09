@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">StaticFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="aboutus">
+        <![CDATA[
+        <h1>Hola mundo infeliz</h1>
+        <p>Esto es un ejemplo de como trabajar con fragments (fragmentos para nuestro entrañables amigos sureños</p>
+        <a href="www.google.es">Ven a mi Web</a>
+        <ol>
+        <li>Uno</li>
+        <li>Dos</li>
+        <li>Tres</li>
+        </ol>
+        ]]>
+    </string>
+</resources>
